@@ -1,0 +1,43 @@
+{
+    "starters": [
+        {
+            "soup": 3
+        },
+        {
+            "pâté": 5
+        },
+        {
+            "bruschetta": 4.5
+        },
+        {
+            "prawncocktail": 6
+        }
+    ],
+    "mains": [
+        {
+            "steal": 18
+        },
+        {
+            "meatballs": 11.50
+        },
+        {
+            "salmonfillet": 14
+        },
+        {
+            "vegetarianlasagna": 12
+        }
+    ],
+    "desserts": [
+        {
+            "stickytoffee": 18
+        },
+        {
+            "tiramisu": 4.5
+        },
+        {
+            "cheesecake": 4
+        },
+        {
+            "icecream": 3.5
+        }
+    ]}
