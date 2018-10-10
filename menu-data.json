@@ -1,43 +1,67 @@
 {
     "starters": [
         {
-            "soup": 3
+            "id": 1,
+            "name": "soup",
+            "price": 3
         },
         {
-            "pâté": 5
+            "id": 2,
+            "name": "pâté",
+            "price": 5
         },
         {
-            "bruschetta": 4.5
+            "id": 3,
+            "name": "bruschetta",
+            "price": 4.5
         },
         {
-            "prawncocktail": 6
+            "id": 4,
+            "name": "prawncocktail",
+            "price": 6
         }
     ],
     "mains": [
         {
-            "steal": 18
+            "id": 5,
+            "name": "steal",
+            "price": 18
         },
         {
-            "meatballs": 11.50
+            "id": 6,
+            "name": "meatballs",
+            "price": 11.50
         },
         {
-            "salmonfillet": 14
+            "id": 7,
+            "name": "salmonfillet",
+            "price": 14
         },
         {
-            "vegetarianlasagna": 12
+            "id": 8,
+            "name": "vegetarianlasagna",
+            "price": 12
         }
     ],
     "desserts": [
         {
-            "stickytoffee": 18
+            "id": 9,
+            "name": "stickytoffee",
+            "price": 18
         },
         {
-            "tiramisu": 4.5
+            "id": 10,
+            "name": "tiramisu",
+            "price": 4.5
         },
         {
-            "cheesecake": 4
+            "id": 11,
+            "name": "cheesecake",
+            "price": 4
         },
         {
-            "icecream": 3.5
+            "id": 12,
+            "name": "icecream",
+            "price": 3.5
         }
     ]}
