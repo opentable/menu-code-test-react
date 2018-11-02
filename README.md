@@ -1,7 +1,7 @@
 OpenTable Front-End Test
 ========================
 
-Thanks for taking the time to complete our front-end test. You should spend no more than 2 hours on this application. Please reach out to us if you have any questions about the test.
+Thanks for taking the time to complete our front-end test. Please spend no more than 2-2½ hours on this application. Please reach out to us if you have any questions about the test.
 
 
 ## The task
