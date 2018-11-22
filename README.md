@@ -1,7 +1,7 @@
-OpenTable Front-End Test
-========================
+OpenTable front-end coding challenge
+====================================
 
-Thanks for taking the time to complete our front-end test. Please spend no more than 2-2½ hours on this application. Please reach out to us if you have any questions about the test.
+Thank you for accepting our coding challenge. Please take as much time as required to give us a good indication of your coding strengths, as your application will provide many topics of conversation in the next interview stage.
 
 
 ## The task
